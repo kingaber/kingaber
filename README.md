@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinga!
-- 👀 I’m interested in cancer research, medical imaging and data science
+- 👀 I’m interested in healthcare, research and data science
 - 📫 How to reach me kbernatowicz@vhio.net
 
 <!---
